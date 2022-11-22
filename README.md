@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Jo%C3%A3o%20Pedro%20de%20Mesquita%20Vieira&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Jo%C3%A3o%20Pedro%20de%20Mesquita%20Vieira&fontSize=30&fontColor=00FF7F&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+person+of+internet+✌🏾;I'm+p3dru,+i+have+22+years+old+(and+counting)+⏰;I'm+from+Piaui,+Brazil;I+study+Analysis+and+Systems+Development+(ASD)💻📲;At+Instituto+Federal+do+Piauí+(IFPI)🏢;Be+Welcome+to+my+little+space+of+expo📷📸;+Of+codes+and+projects!+📝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+person+of+internet+✌🏾;I'm+p3dru,+i+have+22+years+old+(and+counting)+⏰;I'm+from+Piaui,+Brazil;I+study+Analysis+and+Systems+Development+(ASD)💻📲;At+Instituto+Federal+do+Piauí+(IFPI)🏢;Be+Welcome+to+my+little+expo📷📸;+Of+codes+and+projects!+📝)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=p3dru&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c40233&bg_color=0d1117" alt="P3dru´s github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3dru&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=p3dru&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=A020F0&bg_color=000000" alt="P3dru´s github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3dru&layout=compact&hide_border=true&title_color=00FF7F&text_color=A020F0&bg_color=000000"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=p3dru&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=p3dru&bg_color=000000&title_color=00FF7F&color=00FF7F&point=00FF7F&line=A020F0&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p3dru&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=p3dru&bg_color=000000&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -94,4 +94,4 @@ Data Analytics&nbsp;
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
