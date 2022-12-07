@@ -81,6 +81,7 @@ SCRUM&nbsp;
 ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)&nbsp;
 ![MDN WebDocs](	https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+Domestika&nbsp;
 
 ### Studying Plans (To Meet/Increase Knowledge):
 Machine Learning  ||&nbsp;
