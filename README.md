@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3dru&layout=compact&hide_border=true&title_color=00FF7F&text_color=A020F0&bg_color=000000"/>
 </div>
 
-![Contribution](https://activitygraph.herokuapp.com/graphusername=p3dru&bg_color=000000&title_color=00FF7F&color=00FF7F&point=00FF7F&line=A020F0&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=p3dru)](https://github.com/p3dru/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=p3dru&bg_color=000000&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
