@@ -14,6 +14,9 @@
 <a href="https://www.instagram.com/variable_p3dru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
+#
+### 🇧🇷 🇵🇹
+
 ### Foco pessoal em relação à trabalho:
 Desejo me tornar um profissional respeitável capaz de gerenciar equipes e projetos de forma confiável, eficiente e auxiliadora. 
 
@@ -38,8 +41,8 @@ Data Science e Inteligência Artificial
 | Agrupamento | Liguagem - Framework - Biblioteca | Avaliação Pessoal* |
 | ------------- | ------------- | ------------- |
 | Linguagem | ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; | Intermediário-Avançado |
-| Backend | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; | Básico-Intermediário |
-| Frontend | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Básico-Intermediário |
+| Back-End | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; | Básico-Intermediário |
+| Front-End | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Básico-Intermediário |
 | Banco de dados | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; | Intermediário |
 | Metodologias Ágeis | SCRUM | Intermediário |
 | Versionamento | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Intermediário |
@@ -89,7 +92,7 @@ Data Science e Inteligência Artificial
 | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | Básico |
 | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Básico |
 
-### Outras habilidades em Inteliência Artificial e Análise de Dados:
+### Outras habilidades em inteliência artificial e análise de dados:
 | Framework - Biblioteca | Avaliação Pessoal* |
 | ------------- | ------------- |
 | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) | Básico-Intermediário |
@@ -123,4 +126,114 @@ Possuo conhecimento em Programação Orientada à Objetos e padrão de projeto M
 ### Explicação/Descrição dos Repositórios:
 Basicamente, estava utilizando esse espaço apenas para mini-projetos acadêmicos e testes, nenhum dos meus repositórios públicos atuais, representam a versão final dos projetos. Passei a utilizar de forma mais ativa e expositiva agora (abril/2024), tenho um longo caminho a percorrer e gostaria de expôr de forma detalhada e documentada alguns projetos quando forem finalizados e lançados... Vai que isso ajuda alguém em algum momento.
 
+#
+### 🇺🇸 🇬🇧
 
+### Personal focus on work:
+I wish to become a reputable professional capable of managing teams and projects reliably, efficiently and auxiliatively. 
+
+### My current career focuses on:
+Data Science and Artificial Intelligence
+
+### Main interests:
+ - Artificial Intelligence 🤖🧠
+ - Data Science 🎲🧪
+ - Development of back-end 💻🎲
+ - Fullstack Development 💻🎲👀
+ - Psychology 🧠❣️
+
+### Hobbies:
+ - Volleyball 🏐
+ - Football ⚽
+ - Futsal ⚽
+ - Academy 💪🏾
+ - Good conversations 💬
+
+### Main Stack:
+| Grouping | Language - Framework - Library | Personal Evaluation* |
+| ------------- | ------------- | ------------- |
+| Language | ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; | Intermediate-advanced |
+| Back-End | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; | Basic-Intermediate |
+| Front-End | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Basic-Intermediate |
+| Database | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; | Intermediate |
+| Agile methodologies | SCRUM | Intermediate |
+| Versioning | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Intermediate |
+| Version | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Intermediate |
+| I.A. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | Basic-Intermediate |
+
+### Other known languages
+| Language | Personal Evaluation* |
+| ------------- | ------------- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logo=F7DF1E) | Intermediate |
+| ![typescript](https://img.shields.io/badge/TypeScript-007AC?style=for-the-badge&logo=type&logoColor=white) | Intermediate |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Basic |
+| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | Basic |
+
+### Other skills in Back-End development:
+| Framework - Library | Personal Evaluation* |
+| ------------- | ------------- |
+| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | Basic-Intermediate |
+| ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | Basic |
+| ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | Basic |
+
+### Other skills in Front-End development:
+| Framework - Library | Personal Evaluation* |
+| ------------- | ------------- |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | Intermediate |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white) | Intermediate |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Intermediate |
+| EJS | Intermediate |
+| ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=e-the-badge&logo=jquery&logoColor=white) | Basic |
+
+### Other known databases:
+| Framework - Library | Personal Evaluation* |
+| ------------- | ------------- |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | Basic-Intermediate |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | Basic-Intermediate |
+| TypeORM (integration) | Basic-Intermediate |
+
+### Other known methodologies:
+| Methodology | Personal Evaluation* |
+| ------------- | ------------- |
+| Kanban | Intermediate |
+| Lean | Basic |
+
+### Mobile development:
+| Framework - Library | Personal Evaluation* |
+| ------------- | ------------- |
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | Basic |
+| ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Basic |
+
+### Other skills in artificial intelligence and data analytics:
+| Framework - Library | Personal Evaluation* |
+| ------------- | ------------- |
+| ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) | Basic-Intermediate |
+| P.A.D.E | Basic |
+| ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=e-the-badge&logo=num&logoColor=white) | Intermediate |
+| ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | Intermediate |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | Intermediate |
+| ![SciPy](https://img.shields.io/badge/SciPy-654F0?style=eThe-badge&logo=SciPy&logoColor=white) | Basic |
+| ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?e=eThe-badge&logo=scikit-learn&logoColor=white) | Basic |
+
+### Automation (simple) and web scrapping:
+| Framework - Library | Personal Evaluation* |
+| ------------- | ------------- |
+| ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) | Intermediate |
+| PyautoGUI | Intermediary |
+| Beautiful Soup | Intermediate |
+
+> Note: *Personal Evaluation* refers to the sum of time of use of these tools, in my in-depth studies and in my comfort developing in these languages, frameworks and in the use of these libraries.
+
+### Good practices and architectures:
+I have knowledge in Object Oriented Programming and Model-View-Controller (MVC) design pattern. Currently, I seek new knowledge in Design Patterns, Clean Code and documentation improvement.
+
+### Development tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+### Personal organization:
+![Trello](https://img.shields.io/badge/Trello-0052C?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp;
+
+### Explanation/description of repositories:
+Basically, I was using this space only for mini academic projects and tests, none of my current public repositories represent the final version of the projects. I started to use in a more active and expository way now (April/2024), I have a long way to go and I would like to expose in detail and documented some projects when they are finalized and launched... It will help someone at some point.
