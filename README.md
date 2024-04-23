@@ -9,9 +9,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=p3dru&color=FFFFFF&bg_color=000000&theme=high-contrast&row=1&no-bg=false&column=6&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/variable_p3dru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/p3dru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<div align="center">
+<a href="https://www.linkedin.com/in/p3dru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/variable_p3dru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 ### Foco pessoal em relação à trabalho:
