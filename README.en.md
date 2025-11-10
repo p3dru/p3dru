@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="README.md">🇧🇷 Versão em Português</a>
+  <a href="README.md">🇧🇷 Versão em Português</a> •
+  <img src="https://komarev.com/ghpvc/?username=p3dru&color=00e676&style=flat-square" alt="Profile Views"/> •
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=p3dru.p3dru" alt="Visitors"/>
 </p>
 
 ---
