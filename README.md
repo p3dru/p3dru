@@ -6,6 +6,12 @@
   🚀 Fundador do <strong>DisasterScan</strong> – plataforma de IA para previsão e mitigação de desastres naturais
 </p>
 
+<p align="center">
+  <a href="README.en.md">🇺🇸 English Version</a> •
+  <img src="https://komarev.com/ghpvc/?username=p3dru&color=00e676&style=flat-square" alt="Visualizações de perfil"/> •
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=p3dru.p3dru" alt="Visitantes"/>
+</p>
+
 ---
 
 ### 🚀 Principais Tecnologias
@@ -62,7 +68,6 @@ Também atuo em projetos acadêmicos envolvendo **redes neurais convolucionais**
 
 ### 📅 Mapa de Contribuições
 <p align="center">
-  <!-- Cor do verde: troque o hex se quiser outro tom -->
   <img src="https://ghchart.rshah.org/00e676/p3dru" alt="Contribuições de p3dru (últimos 365 dias)"/>
 </p>
 
